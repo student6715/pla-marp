@@ -2,7 +2,7 @@
 marp: true
 theme: uncover
 size: 4:3
-
+title: test
 header: marpのテスト
 footer: student6715
 paginate: true
